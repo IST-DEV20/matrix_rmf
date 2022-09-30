@@ -1,0 +1,29 @@
+{
+  "world_name" : "3x3 World",  
+  "valid_task": ["Loop"],
+  "task": {
+    "Delivery": {
+    },
+    "Loop": {
+      "places": [
+        "n1",
+        "n2",
+        "n3",
+        "n4",
+        "n5",
+        "n6",
+        "n7",
+        "n8",
+        "n9"
+      ]
+    },
+    "Clean": {
+    },
+    "Station": {
+    },
+    "Patrol": {
+    },
+    "Charging": {
+    }
+  }
+}

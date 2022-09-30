@@ -7,7 +7,7 @@
 ## 1. Launch Multiple robots
 ### 1.1 Gazebo Simulatin Environment
 
-  <img align="center" src="https://github.com/clobot-git/matrix_rmf/blob/noetic-devel/images/map.png" width=400>
+  <img align="center" src="https://github.com/clobot-git/clober_rmf/blob/noetic-devel/images/map.png" width=400>
 
 ### 1.2 Initial random path given to robots
 
